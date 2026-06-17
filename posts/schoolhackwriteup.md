@@ -4,8 +4,8 @@ date: 16-06-2026
 description: The Great Grade Heist of 2026
 ---
 
-> "We changed the password, we're secure now!"
-> -- Said no sysadmin ever
+> We changed the password, we're secure now!
+- Said no sysadmin ever
 
 <caution>
 Look, I'm putting this out there because the infosec community needs to laugh at how badly this was set up. But let's be real: what I did is illegal in every country on Earth. We're talking fines, criminal charges, jail time, the whole nine yards. This isn't a slap on the wrist situation. If you're thinking about doing this to your school, don't. I got incredibly lucky. You probably won't.
